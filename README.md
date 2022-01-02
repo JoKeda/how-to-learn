@@ -5,3 +5,5 @@ _Сверстано с помощью:_
 1. HTML5
 2. CSS
 3. API
+
+[Посмотреть проект](https://jokeda.github.io/how-to-learn/index.html)
